@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+👋 안녕하세요! <br><br>
+아이디어로 시작해 과제로 실현하는 R&D 연구 과제 기획자입니다!<br>
+----------------------
+최신 기술 트렌드와 사용자의 요구를 반영하여 의미 있는 연구개발 과제를 기획하고,<br>
+실질적인 성과로 이어질 수 있도록 전략적 방향을 제시하고 있습니다. <br>
 
-<!--
-**drawer08/drawer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프로젝트의 초기 기획부터 실행, 리소스 관리와 일정 조정 등 <br>
+<b>과제 전반의 관리 경험</b>을 통해 과제가 목표를 달성할 수 있도록 끊임없이 노력하고 있습니다
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+과제 괸리 뿐만 아니라 <b>Python을 활용한 데이터 분석 및 인사이트 도출 경험</b>을 통해서<br>
+프로젝트의 성공적인 결과를 이끌어가는 데 최선을 다하고 있습니다. <br><br>
+</div>
