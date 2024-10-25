@@ -14,3 +14,11 @@
 </div>
 
      
+<div align="left">
+
+## 👩‍🎓 Education
+
+⁍ 계명대학교 <mark><b>수학과 & 통계학과</b></mark> 학과 졸업 (2013.02 ~ 2021.02) <br>
+⁍ <mark><b>IM Bank Digital Banker Academy 1기</b></mark> 교육생 (2024.06 ~ 2024.12) <br>
+
+</div>
