@@ -25,7 +25,7 @@
 
 <div align="left">
 
- ## 🛠 Work History (R&D)
+ ## 🛠 Career (R&D)
 
  <details>
   <summary><b>(주)누리기술 (2022.07 ~ 2023.02)</b></summary><br>
