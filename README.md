@@ -19,7 +19,9 @@
 ## 👩‍🎓 Education
 
 ⁍ 계명대학교 <mark><b>수학과 & 통계학과</b></mark> 학과 졸업 (2013.02 ~ 2021.02) <br>
+⁍ <mark><b>빅데이터 AI 기초 캠프 & 파이썬 기초 캠프</b></mark> 수료 (2019.08 ~ 2019.08)<br>
 ⁍ <mark><b>IM Bank Digital Banker Academy 1기</b></mark> 교육생 (2024.06 ~ 2024.12) <br>
+
 
 </div>
 
